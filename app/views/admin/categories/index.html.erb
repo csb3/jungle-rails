@@ -6,10 +6,8 @@
   <%= link_to '+ New Category', [:new, :admin, :category], class: 'btn btn-info' %>
 </div>
 
-<div class="panel panel-default">
+<div>
   <% @categories.each do |category| %>
-    <div class="category">
-    <%= category.name %>
-    </div>
+    <h3><%= link_to category.name, category %></h3>
   <% end %>
 </div>
