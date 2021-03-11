@@ -4,8 +4,8 @@ A mini e-commerce application built with Rails 4.2 for the purpose of learning R
 
 ## Screenshots
 
-!["Main View"]()
-!["My Cart"]()
+!["Main View"](https://github.com/csb3/jungle-rails/blob/master/docs/main-view.png?raw=true)
+!["My Cart"](https://github.com/csb3/jungle-rails/blob/master/docs/my-cart.png?raw=true)
 
 ## Setup
 
